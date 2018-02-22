@@ -1,0 +1,29 @@
+
+body {
+	font-family: 'Buenard', serif;
+	border: 20px solid rgb(211,211,211);
+	padding: 10px;
+	width: 80%; /*this will make the width of something a dynamic by using a percentage*/
+	margin: 20px auto; /*this will help to center your document (0 auto means no margin on top)*/
+}
+
+.firstParagraph {
+	border-left: 10px solid rgb(255,215,0);
+	padding-left: 10px;
+}
+
+h4 {
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	font-color: #708090;
+}
+
+p {
+	font-color: #48D1CC;
+}
+
+hr {
+	border: 1px solid rgb(255,215,0);
+	/*border: 1px dashed rgb(255,215,0);*/
+	/*border: 1px dotted rgb(255,215,0);*/
+}
